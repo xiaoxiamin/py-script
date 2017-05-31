@@ -1,0 +1,16 @@
+(dp0
+S'2222222'
+p1
+(lp2
+S'oldboy'
+p3
+aI15000
+aI15000
+asS'1111111'
+p4
+(lp5
+S'simin'
+p6
+aI15000
+aI15000
+as.
