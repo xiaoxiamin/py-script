@@ -3,7 +3,8 @@
 
 import re
 
-log=open('simin.log')
+log_file=raw_input(please input log file:)
+log=open('log_file')
 all_log=log.read()
 log.close()
 
